@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, sou Luiz Henrique Freitas
 
-<!--
-**LuizHenriqueFreitas/LuizHenriqueFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Cursando ADS no Instituto Federal, SP
+- 🔬 Iniciação científica na UNESP
+- 📶 Focado em desenvolvimento web
+- 🎮 Estudando C#
+- ⚡ Buscando experiência
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueFreitas;layout=compact&amp;langs_count=10&amp;theme=synthwave;hide=prolog,rich%20text%20format,html&amp"/>
+</p>
