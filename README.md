@@ -1,9 +1,8 @@
-## Olá, sou Luiz Henrique Freitas
+## Hello, I'm Luiz Henrique Oliveira de Freitas!
 
 - 📚 Cursando ADS no Instituto Federal, SP
 - 🔬 Iniciação científica na UNESP
-- 📶 Focado em desenvolvimento web
+- 📶 Learning...
 - 🎮 Estudando C#
-- ⚡ Buscando experiência
 
 ##
