@@ -2,21 +2,18 @@
 
 - 📚 Cursando ADS no Instituto Federal, SP
 - 🔬 Iniciação científica na UNESP
-- 📶 Learning...
-- 🎮 Estudando C#
+- 📶 AspNet Core
+- 🎮 Godot game development
 
 ---
 
 ## 📊 Stats
 
-<p align="center">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=LuizHenriqueFreitas&cache_seconds=1800/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueFreitas&cache_seconds=1800"/>
+<p>
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
 </p>
-
----
-
-## 📫 Contato
-
-- [Linkedin](https://www.linkedin.com/in/luizhofreitas/)
-- Email: luiz.h.o.freitas@gmail.com
