@@ -1,9 +1,6 @@
 ## Hello, I'm Luiz Henrique Oliveira de Freitas!
 
-- 📚 Cursando ADS no Instituto Federal, SP
-- 🔬 Iniciação científica na UNESP
-- 📶 AspNet Core
-- 🎮 Godot game development
+I make tools for my necessities and some interestant aplications what i think is good to pratice code concepts.
 
 ---
 
