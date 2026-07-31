@@ -26,6 +26,6 @@ Knowledge of SQL (MySQL, PostgreSQL, SQLite, etc.).
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizHenriqueFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
