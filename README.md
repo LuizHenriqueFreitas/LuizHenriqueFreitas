@@ -1,20 +1,9 @@
 ## Hello, I'm Luiz Henrique Oliveira de Freitas!
 
-I develop tools to meet my own needs, as well as interesting applications that serve as good practice for programming concepts.
-
-
-The best stack is the one that gets you hired 😁.
-
-
-Personally, I enjoy using C# and Python for my study projects.
-
-
-I focus on developing tools and applications.
-
-
-PHP or ASP.NET for web development, and C++ for CGI applications (openGL, someday Vulcan).
-
-
+I develop tools for my little problems.  
+The best stack is the one that gets you hired 😁.   
+Personally, I enjoy using Python and C++ for my study projects.   
+PHP, Ruby or ASP.NET for web development.    
 Knowledge of SQL (MySQL, PostgreSQL, SQLite, etc.).
 
 ---
